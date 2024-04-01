@@ -1,8 +1,11 @@
 
 <h3>Sobre Mim</h3>
-Sou formado pela FATEC no curso Análise de Sistemas e TI com ênfase em Segurança da Informação. 
-Por mais de 16 anos trabalhei em grandes empresas referências no mercado de tecnologia, que me proporcionaram adquirir vasta experiência em diversas áreas relacionadas. 
-Atualmente estou cursando Formação Engenheiro de Dados na instituição Data Science Academy.
+Olá meu nome é Wagnger, sou formado pela FATEC no curso Análise de Sistemas e TI com ênfase em Segurança da Informação. 
+
+Por mais de 16 anos trabalhei em grandes empresas referências no mercado da tecnologia, que me proporcionaram adquirir vasta experiência em diversas áreas relacionadas. 
+
+Atualmente estou cursando Formação Engenheiro de Dados na instituição Data Science Academy e agradeço imensamente a todos professores da DSA, principalmente ao professor Daniel Mendes que foi quem me direcionou nos caminhos da programação orientada a negócios, onde tive a oportunidade de aprender muitas coisas em um curto espaço de tempo, devido a didática eficientemente fantástica. A partir de então tive vários insights e pude implementá-los em alguns projetos em que estive trabalhando. E sempre tenho a mesma ansiedade quando se trata de adquirir mais conhecimento na escola da vida!
+
 <br><br>
 <h3>Habilidades</h3>
 Consultor de BI | Analista de Sistemas | Analista de Dados | DBA | UX/UI | I.A | XP&A | Scrum Master
