@@ -1,6 +1,6 @@
 
 <h3>Sobre Mim</h3>
-Olá meu nome é Wagnger, sou formado pela FATEC no curso Análise de Sistemas e TI com ênfase em Segurança da Informação. 
+Olá meu nome é Wagner, sou formado pela FATEC no curso Análise de Sistemas e TI com ênfase em Segurança da Informação. 
 
 Por mais de 16 anos trabalhei em grandes empresas referências no mercado da tecnologia, que me proporcionaram adquirir vasta experiência em diversas áreas relacionadas. 
 
